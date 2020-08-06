@@ -1,0 +1,14 @@
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\bin\Debug\CircularProgressBar.dll
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\bin\Debug\WinFormAnimation.dll
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\bin\Debug\CircularProgressBar.xml
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csprojAssemblyReference.cache
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.cache
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.CoreCompileInputs.cache
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.CopyComplete
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\mouss\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
